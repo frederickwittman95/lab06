@@ -4,7 +4,7 @@ Dr. Hill
 
 COSC 2030-01
 
-25 March 2019
+1 April 2019
 
 ### 1.  To comment C++ code:
 
@@ -82,4 +82,16 @@ class Node:
     	self.value = value
 
 root = Node(5)
+```
+
+### 9. How do you declare a class in python?
+
+The simplest possible class declaration for python is the following:
+```
+class ClassName:
+    <statement-1>
+    .
+    .
+    .
+    <statement-N>
 ```

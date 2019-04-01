@@ -1,13 +1,7 @@
-
-# coding: utf-8
-
-# In[40]:
-
-
-# Frederick Wittman
-# Dr. Hill
-# COSC 2030-01
-# 1 April 2019
+###### Frederick Wittman
+###### Dr. Hill
+###### COSC 2030-01
+###### 1 April 2019
 
 import math
 
@@ -59,7 +53,6 @@ class Geometric_Calculator_Diamond:
     def __init__(self, side, angle):
         self.side = side
         self.angle = angle
-        
     def calculate_diamond_perimeter(self):
         perimeter = 4 * self.side
         return perimeter

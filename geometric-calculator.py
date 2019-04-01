@@ -1,7 +1,7 @@
-###### Frederick Wittman
-###### Dr. Hill
-###### COSC 2030-01
-###### 1 April 2019
+# Frederick Wittman
+# Dr. Hill
+# COSC 2030-01
+# 1 April 2019
 
 import math
 
@@ -81,7 +81,3 @@ print("\n")
 tri.print_triangle()
 rect.print_rectangle()
 diam.print_diamond()
-
-        
-        
-
